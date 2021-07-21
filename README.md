@@ -11,6 +11,9 @@ These notebooks are intended for individuals working in technical roles who want
 
 The notebooks can be opened through [Amazon SageMaker](https://aws.amazon.com/sagemaker/). Amazon SageMaker is a fully managed service for machine learning workflows. 
 ## Before You Begin 
+two sentences each 
+(explain each resource)(this is how you set up and link)
+"for more info how to create iam user, see.."
 
 In order to run the modules in the curriculum, you will need:
 * An [AWS Account](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
