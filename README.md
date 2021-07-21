@@ -26,6 +26,6 @@ In order to run the modules in the curriculum, you will need:
 
 To run these notebooks, go to the Amazon SageMaker Console. Then, under Notebook on the left, click Git repositories. From there, click to add a GitHub/Other Git-based repo. Input a unique SageMaker repository name and paste this GitHub Repostiory's URL. 
 
-<img width="897" alt="Screen Shot 2021-07-20 at 12 51 33 PM" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
+<img width="897" alt="Amazon SageMaker Console GitHub Repositories" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
 
 Then, you can access the repostories through Amazon SageMaker's notebook instances. 
