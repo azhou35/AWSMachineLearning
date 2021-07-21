@@ -2,7 +2,8 @@
 
 ## Overview
 
-Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing.  
+Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing. Through the next series of modules, these modules will introduce the basics of machine learning (ML) so you can become ML literate. Users will follow step-by-step tutorials about how to use Amazon Web Services (AWS) services to solve real-world problems. 
+
 
 ## Background 
 
