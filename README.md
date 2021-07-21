@@ -17,6 +17,8 @@ In order to run the modules in the curriculum, you will need:
 * [IAM User and Role Setup](https://docs.aws.amazon.com/sagemaker/latest/dg/security-iam.html)
 * An [Amazon SageMaker Notebook Instance](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html)
 * An [S3 Bucket](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html) 
+ 
+You will need attach policies to your IAM role for "AmazonTranslateFullAccess", "AmazonPollyFullAccess", "AmazonTextractFullAccess", and "AmazonComprehendFullAccess."
 
 ## Usage 
 
