@@ -10,7 +10,7 @@ Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to s
 These notebooks are intended for individuals working in technical roles who want to use AWS Services for their business. Prior background in Python and Jupyter Notebooks is assumed. No mathematical or statistical background is required. 
 
 The notebooks can be opened through [Amazon SageMaker](https://aws.amazon.com/sagemaker/). Amazon SageMaker is a fully managed service for machine learning workflows. 
-## Setup 
+## Before You Begin 
 
 In order to run the modules in the curriculum, you will need:
 * An [AWS Account](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
@@ -18,7 +18,6 @@ In order to run the modules in the curriculum, you will need:
 * An [Amazon SageMaker Notebook Instance](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html)
 * An [S3 Bucket](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html) 
  
-You will need attach policies to your IAM role for "AmazonTranslateFullAccess", "AmazonPollyFullAccess", "AmazonTextractFullAccess", and "AmazonComprehendFullAccess."
 
 ## Usage 
 
