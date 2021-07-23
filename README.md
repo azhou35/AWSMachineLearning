@@ -2,11 +2,11 @@
 
 ## Amazon Web Services (AWS)
 
-AWS is a cloud computing platform where businesses access technologies to easily solve their technical problems. AWS hosts over 100 services (inaccurate), ranging from servers, storage, mobile development, and security. AWS provides a large set of machine learning services that can be used even by those without prior experience. 
+AWS is a cloud computing platform where businesses access technologies to easily solve their technical problems. AWS hosts over 200 services, ranging from servers, storage, mobile development, and security. AWS provides a large set of machine learning services that can be used even by those without prior experience. 
 
 ## Overview
 
-Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing. Through the next series of modules, these modules will introduce the basics of machine learning (ML) so you can become ML literate. Users will follow step-by-step tutorials about how to use Amazon Web Services (AWS) services to solve real-world problems. 
+This GitHub Repostiory contains Jupyter notebooks that demonstrate how to use AWS Machine Learning Services to solve business problems in natural language processing. Through the next series of modules, these modules will introduce the basics of machine learning (ML) so you can become ML literate. Users will follow step-by-step tutorials about how to use Amazon Web Services (AWS) services to solve real-world problems. 
 
 
 ## Background 
@@ -29,9 +29,9 @@ After you have all the accounts set up, you can open the Jupyter notebooks that 
 2. Go to the Amazon SageMaker Console.
 3. Find Notebook on the left navigation bar. Click Git repositories. 
 4. Click to add a GitHub/Other Git-based repo. 
-5. Input a unique SageMaker repository name and paste this GitHub Repostiory's URL. 
+5. Input a unique SageMaker repository name and paste this GitHub Repository's URL. 
 
 
 <img width="897" alt="Amazon SageMaker Console GitHub Repositories" src="https://user-images.githubusercontent.com/36568498/126387067-5a4e3ad2-8b19-4097-9e54-f44128ef4c47.png">
 
-Now, you can access the repostories through Amazon SageMaker's notebook instances. Click on folder titled "Module #1," then the file "Translate text into spoken translations with Amazon Translate and Amazon Polly" to begin the curriculum.
+Now, you can access the repostories through Amazon SageMaker's notebook instances. Click on the notebook instance titled **Module #1**. Click on **Open Jupyter Notebook.** Then, click on the file "Translate text into spoken translations with Amazon Translate and Amazon Polly" to begin the curriculum.
